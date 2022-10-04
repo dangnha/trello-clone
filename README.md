@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+* **Node.js >= v18.9.1**
+* **npm >= 8.19.1**
+* **yarn >= 1.22.19**
+
+*This is my personal project when i try to learn MERN stack from youtube.*
+
 In the project directory, you can run:
 
 ### `npm start`
